@@ -1,0 +1,3 @@
+# Terraform for_each Lab
+
+This lab demonstrates how to use Terraform `for_each` to create multiple Azure Network Security Groups.
